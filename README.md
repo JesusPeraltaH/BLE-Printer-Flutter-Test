@@ -1,16 +1,28 @@
 # printest
 
-A new Flutter project.
+Descripción del Proyecto: App Flutter de Prueba para Impresora BLE
 
-## Getting Started
+Esta aplicación Flutter permite probar impresoras térmicas Bluetooth (BLE) mediante conexión directa desde un dispositivo móvil. Su función principal es escanear dispositivos Bluetooth, conectarse a una impresora térmica compatible y enviar un texto de prueba para impresión.
+🔧 Funcionalidades:
 
-This project is a starting point for a Flutter application.
+    Escaneo de dispositivos Bluetooth disponibles (BLE)
 
-A few resources to get you started if this is your first Flutter project:
+    Conexión a una impresora térmica seleccionada
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Envío de texto simple para impresión de prueba
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Interfaz mínima para facilitar la validación rápida del hardware
+
+🎯 Propósito:
+
+    Verificar la conectividad entre Flutter y una impresora térmica Bluetooth
+
+    Comprobar que el envío e impresión de texto básico funciona correctamente
+
+    Servir como base para proyectos más complejos que incluyan impresión de tickets, logotipos o recibos
+
+🛠 Tecnología:
+
+    Flutter
+
+    Plugin: bluetooth_print (comunicación BLE)
