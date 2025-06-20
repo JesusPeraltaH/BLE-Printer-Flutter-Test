@@ -1,0 +1,1 @@
+ /Users/jesusperalta/Documents/Programar/printest/BLE-Printer-Flutter-Test/.dart_tool/flutter_build/5e3e4720ad04d5131958720699f0eab3/native_assets.json: 
